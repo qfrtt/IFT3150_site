@@ -18,8 +18,8 @@ On utilise les methodes d'obfuscation de base :
 Pour appliquer ces methodes sans pour autant modifier le code source directement on utilise LLVM qui est un compilateur open-source
 avec la version O-LLVM qui est une modification du compilateur qui implemente ces methodes directement lors de la compilation.
 
- Notre proof of concept est une application client/serveur de chat qui integre ces methodes la en plus d'autres methodes qui rendent l'analyse statique et dynamique du code difficile par le bias de l'anti-debugging et un networking chiffree par cle privee.
+Notre proof of concept est une application client/serveur de chat qui integre ces methodes la en plus d'autres methodes qui rendent l'analyse statique et dynamique du code difficile par le bias de l'anti-debugging et un networking chiffree par cle privee.
 
 
 
- References pour le site : 
+ References pour le site : jekyll-theme-console
